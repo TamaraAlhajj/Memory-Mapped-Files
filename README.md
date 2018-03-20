@@ -3,7 +3,7 @@
 Last modified: 19th March 2018 <br />
 COMP3000, Exercise 8 <br />
 
-### Authors ###
+## Authors ##
 
 Tamara Alhajj - 100948027<br />
 Professor Michel Barbeau
