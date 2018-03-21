@@ -31,7 +31,7 @@ int main (int argc, char* const argv[]) {
 	char buffer[FILESIZE];
 	void* file_memory;
 		
-	if(argc < 3){
+	if(argc != 3){
 		printf("Usage: ./mmap-write a_file an_int\n");
 		return 1;
 	}
